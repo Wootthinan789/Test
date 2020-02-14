@@ -1,2 +1,2 @@
 This is test3
-Add new fucntion
+Add new function
